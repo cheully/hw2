@@ -1,0 +1,136 @@
+.navbar {
+	position: fixed;
+	width: 100%;
+	height: 10%;
+	top: 0; 
+	left: 0;
+	background-image: url("http://amzwall.com/wp-content/uploads/2015/02/Starry-Background-Image-Desktop.jpg");
+}
+
+.view{
+	background-color:#FF4;
+	height:30%;
+	left:0;
+	width:100%;
+	top:90px;
+}
+
+html, body {
+  position:absolute;
+  left:0;
+  width:95%;
+  height:100%;
+  padding: 30px;
+  background-color:#FF5;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.navbar-brand{
+	position:fixed;
+	top:4%;
+	left:10%;
+	color: #483D8B;
+	font-size: 20px;
+}
+
+.form-group {
+	position:absolute;
+	top:12%;
+	left:58%;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.form-group-t{
+	position:absolute;
+	top:12%;
+	left:72%;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.col1{
+	position:absolute;
+	top: 38%;
+	width:350px;
+	left: 5%;
+}
+
+.col2{
+	position:absolute;
+	top: 38%;
+	width:350px;
+	left:35%;
+}
+
+.col3{
+	position:absolute;
+	top: 38%;
+	width:350px;
+	left:65%;
+}
+
+a:hover{
+  font-weight:      bold;
+  color:            #fff;
+  } 
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;	
+  color: #FFF;
+}
+
+button {
+	position: absolute;
+	right:5%;
+	top:12%;
+	cursor: pointer;
+	color: #FFF;
+	background-color: #901;
+	border: 3px double #FC6;
+	border-radius: 10px;
+	padding:10px;
+}
+
+.f{
+	position: fixed;
+	width: 100%;
+	height: 5%;
+	left: 0;
+	bottom:0;
+	color: #FF5;
+	font-size:15px;
+	text-align:center;
+	background-image: url("http://amzwall.com/wp-content/uploads/2015/02/Starry-Background-Image-Desktop.jpg");
+}
+
+.v{
+	position: absolute;
+	top: 28%;
+	padding: 8px;
+	border: groove;
+	border-radius: 25px;
+	border-color: #6600CC;
+	background-color: #6600CC;
+}
+
+.v:hover{
+	border-color: #9147DA;
+	background-color: #9147DA;
+}
+
+.vv{
+	position: absolute;
+	padding:8px;
+	border: groove;
+	border-radius: 25px;
+	border-color: #FFCC99;
+	background-color: #FFCC99;
+}
+
+.vv:hover{
+	border-color: #B28F6B;
+	background-color: #B28F6B;
+}
